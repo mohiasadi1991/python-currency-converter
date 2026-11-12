@@ -9,7 +9,7 @@ def get_rates(base_currency):
     try:
         request = urllib.request.Request(
             url,
-            headers={"User-Agent": "PythonCurrencyConverter"}
+            headers={"User-Agent": "PythonCurrencyConverte"}
         )
 
         with urllib.request.urlopen(
