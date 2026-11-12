@@ -1,5 +1,5 @@
 import json
-import urllib.reques
+import urllib.request
 
 API_URL = "https://open.er-api.com/v6/latest/"
 
